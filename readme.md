@@ -146,7 +146,7 @@ pip install gTTS
 from gtts import gTTS
 
 # The text that you want to convert to audio
-mytext = 'Kritrim AI is the next big thing in the world of AI.'
+mytext = 'Kritrim AI is the next big thing in the world of AI & robotics.'
 
 # # Language in which you want to convert
 language = 'en'
