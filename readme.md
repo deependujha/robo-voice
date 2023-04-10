@@ -175,3 +175,18 @@ myobj.save("myaudio_gtts.mp3")
 ```sh
 pip install -r requirements.txt
 ```
+
+---
+
+# wav Vs mp3 🎵
+
+- **WAV (Waveform Audio File Format)** and **MP3 (MPEG Audio Layer-3)** are both audio file formats, but they have some important differences.
+
+- **WAV is an uncompressed audio format**, which means that the file size is generally larger than MP3 files. WAV files have a high-quality sound and are ideal for recording and editing music or other audio files. However, because of their large size, WAV files may not be suitable for streaming or sharing over the internet.
+
+- **MP3**, on the other hand, is **a compressed audio format** that uses lossy compression to reduce the file size. This means that some of the audio data is lost during compression, resulting in a lower quality sound compared to WAV files. However, MP3 files are much smaller in size than WAV files, making them ideal for streaming and sharing over the internet.
+
+- In summary, if you need high-quality audio with no loss of data, then WAV is a good choice. However, if you need to share or stream audio files over the internet, then MP3 is a more practical choice because of its smaller file size.
+
+- ### High quality & good for editing - wav fils
+- ### Good for sharing & streaming - mp3 files
